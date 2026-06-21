@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Benešovi – úklidový protokol",
+    "subtitle": "Zdravé prostředí. Udržitelný režim."
+  },
+  "modes": {
+    "normal": {
+      "title": "🟢 Normální režim",
+      "banner": ""
+    },
+    "low_energy": {
+      "title": "🟡 Nízká energie",
+      "banner": "Dnes stačí splnit denní checklist a hlavní blok."
+    },
+    "sick": {
+      "title": "🔴 Nemoc",
+      "banner": "Zaměřte se pouze na hygienické minimum."
+    }
+  }
+}
